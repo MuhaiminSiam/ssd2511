@@ -1,0 +1,36 @@
+body{
+	margin: 0;
+}
+h1{
+			color: black;
+			font-size: 40px;
+			text text-shadow: 0 0 10px #000;
+			text-shadow: 0 0 10px black;
+	}
+	  .colorBlue{
+        color: blue;
+        
+	}
+	.colorRed{
+		color: red;
+	}
+	.colorYellow{
+		color: yellow;
+	}
+	.colorgreen{
+		color: green;
+	}
+	div{
+		width: 600px;
+		text-align: center;
+		margin-top: 70px;
+		margin-left: auto;
+		margin-right: auto;
+		box-shadow: 0 0 5px #dcd7d77d;
+		padding: 25px;
+	}
+	h1{}
+	span{}
+	img{
+		max-width: 100%;
+	}
